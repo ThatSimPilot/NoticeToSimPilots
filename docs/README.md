@@ -2,7 +2,7 @@
 
 NoticeToSimPilots is a planned Windows add-on for Microsoft Flight Simulator 2024. It fetches real-world NOTAMs (Notices to Air Missions) for the airports near the aircraft and makes the operationally important ones visible inside the simulator. Examples are a taxiway closed for maintenance, shown with closure markers and a service vehicle with workers on the taxiway, or a temporary crane, shown as a crane model at the reported position. The app is a background tray program, with an optional separate settings and viewer program. Later phases add an in-sim EFB (electronic flight bag) app and a flight plan mode that uses SimBrief.
 
-The product is intended for commercial release, most likely for a small one-time fee. A free open-source project with a similar name, NotamsInjector, already exists. See [research.md](research.md) for how it differs.
+The product is intended for commercial release, most likely for a small one-time fee. See [research.md](research.md) for how it differs to similar products.
 
 ## Status
 
